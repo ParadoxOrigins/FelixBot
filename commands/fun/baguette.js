@@ -1,4 +1,4 @@
-class Choose {
+class Baguette {
     constructor() {
         this.help = {
             name: 'baguette',
